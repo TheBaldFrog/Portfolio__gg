@@ -37,13 +37,11 @@
     }
     &__block {
         position: relative;
-        // left: -100%;
         width: 345px;
         background-color: $main-color;
         height: 100%;
         padding-top: 140px;
         padding-left: 40px;
-        transition: all 0.6s;
         z-index: 5;
     }
     &__close {
